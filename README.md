@@ -1,25 +1,3 @@
-<!-- Table of Contents -->
-<details>
-
-<summary>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-</summary>
-
-- [About the Project](#star2-about-the-project)
-  * [Folder Structure](#bangbang-folder-structure)
-  * [Tech Stack](#space_invader-tech-stack)
-- [Getting Started](#toolbox-getting-started)
-  * [Installation](#gear-installation)
-  * [Run Locally](#running-run-locally)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
-
-</details>  
-
 <!-- About the Project -->
 ## :star2: About the Project
 This repository houses an well-designed and functional Developer Portfolio Website consisting Navbar, Hero, Overview, Work Experience, Technologies, Projects, Testimonials and Contact sections built with React & Three.js using TailwindCSS ⏭
